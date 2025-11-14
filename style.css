@@ -1,0 +1,18 @@
+header{
+    background-color: #F4C2C2;
+}
+
+.logo img{
+    width: 7%;
+    height: 7%;
+}
+
+.escritaPrincipal, .fraseItens {
+    font-family: "Quicksand";
+    font-size: 150%;
+    color: #FF6961;
+}
+
+.boneca {
+
+}
