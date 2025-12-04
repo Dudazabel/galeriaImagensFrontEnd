@@ -1,18 +1,58 @@
-header{
-    background-color: #F4C2C2;
+.logo p{
+   font-family: "Quicksand";
+   color: #FF6961;
+   font-size: 3em;
+   background-color: #F4C2C2;
+   margin-top: 0px; 
+   height: 120px;
+   padding-top: 1em;
+   padding-left: 1em;
 }
 
-.logo img{
-    width: 7%;
-    height: 7%;
-}
 
-.escritaPrincipal, .fraseItens {
+.escritaPrincipal {
     font-family: "Quicksand";
-    font-size: 150%;
+    font-size: 1.5em;
     color: #FF6961;
+    padding-left: 10em;
 }
 
-.boneca {
-
+.boneca{
+    margin-top: 5em;
+    margin-left: 12em;
 }
+
+.separador{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fraseItens{
+    font-family: "Quicksand";
+    font-size: 1.5em;
+    color: #FF6961;
+    padding-left: 30em;
+}
+
+.vestidos{
+    display: flex;
+}
+
+.vestidoRosa img{
+    width: 55%;
+    height: auto;
+}
+
+.vestidoRosa{
+     margin-left: 34em;
+}
+
+.vestidoVermelho img{
+    width: 55%;
+    height: auto;
+}
+
+
+
+
+
